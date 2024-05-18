@@ -1,0 +1,4 @@
+dataset/dset-s2
+*.pth
+other/__pycache__
+DL_based_seg/__pycache__
